@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Ya son las doce de la noche");
-        System.out.println("Mas cambios");
+        System.out.println("Hola buenas tardes");
     }
 }
